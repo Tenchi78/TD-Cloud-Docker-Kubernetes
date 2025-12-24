@@ -34,7 +34,7 @@ Initialement développée avec **Docker Compose**, l’application a ensuite ét
 * **Savoglou Enzo**
 * **Ballatore Fabien**
 * **Lirzin Erwan**
-* **Bezara Jonhatan**
+* **Bezara Jonathan**
 * **Petit Willian**
 
 ---
